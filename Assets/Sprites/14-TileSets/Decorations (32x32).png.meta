@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 1893e680970c0464ea73bf7e8ed7642c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8605479602969983287
+    second: Flag_long
+  - first:
+      213: 4600129511770090565
+    second: Platform_long
+  - first:
+      213: -399538571583186172
+    second: Decorations (32x32)_2
+  - first:
+      213: 3406356269320503256
+    second: Flag_short
+  - first:
+      213: -1075017349056126811
+    second: Window_1
+  - first:
+      213: -8255700023269317997
+    second: Window_2
+  - first:
+      213: 6294808281560137798
+    second: Platform_short
+  - first:
+      213: 6989189372938095363
+    second: Decorations (32x32)_7
+  - first:
+      213: -59366793427181878
+    second: Decorations (32x32)_8
+  - first:
+      213: 144703468013308536
+    second: Decorations (32x32)_9
+  - first:
+      213: 7417954762047746310
+    second: Decorations (32x32)_10
+  - first:
+      213: -328086744496294525
+    second: Decorations (32x32)_11
+  - first:
+      213: -7087685091449271119
+    second: Decorations (32x32)_12
+  - first:
+      213: -5039852512312098757
+    second: Decorations (32x32)_13
+  - first:
+      213: 3018965250298252140
+    second: Decorations (32x32)_14
+  - first:
+      213: -4111354732051323565
+    second: Decorations (32x32)_15
+  - first:
+      213: -218676679752899399
+    second: Decorations (32x32)_16
+  - first:
+      213: 810535612993806456
+    second: Decorations (32x32)_17
+  - first:
+      213: -2037447976504338380
+    second: Decorations (32x32)_18
+  - first:
+      213: -4128507501379397986
+    second: Decorations (32x32)_19
+  - first:
+      213: 8711389345169685912
+    second: Decorations (32x32)_20
+  - first:
+      213: -8504409732566498597
+    second: Decorations (32x32)_21
+  - first:
+      213: 75584612711069827
+    second: Decorations (32x32)_22
+  - first:
+      213: 1702605265836653642
+    second: Decorations (32x32)_23
+  - first:
+      213: -590956465601307602
+    second: Decorations (32x32)_24
+  - first:
+      213: -9041326403452093266
+    second: Decorations (32x32)_25
+  - first:
+      213: -7051370726068090024
+    second: Decorations (32x32)_26
+  - first:
+      213: -8828563321661511307
+    second: Decorations (32x32)_27
+  - first:
+      213: -1206073384291621882
+    second: Decorations (32x32)_28
+  - first:
+      213: -2247497429198914217
+    second: Decorations (32x32)_29
+  - first:
+      213: 6204055206609769534
+    second: Decorations (32x32)_30
+  - first:
+      213: -2962463257562327868
+    second: Decorations (32x32)_31
+  - first:
+      213: 4771521419484528942
+    second: Decorations (32x32)_32
+  - first:
+      213: 6146973244935425242
+    second: Decorations (32x32)_33
+  - first:
+      213: 5942650633480549326
+    second: Decorations (32x32)_34
+  - first:
+      213: 5297580719288271398
+    second: Decorations (32x32)_35
+  - first:
+      213: 8932177805170790632
+    second: Decorations (32x32)_36
+  - first:
+      213: 5884701705098335212
+    second: Decorations (32x32)_37
+  - first:
+      213: -5858912930053362829
+    second: Decorations (32x32)_38
+  - first:
+      213: -6228088867681291080
+    second: Decorations (32x32)_39
+  - first:
+      213: -5475805834383801849
+    second: Decorations (32x32)_40
+  - first:
+      213: 2569634523169520560
+    second: Decorations (32x32)_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flag_long
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 26
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ca1715e1339880800000000000000
+      internalID: -8605479602969983287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_long
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 96
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce8dd1b61f6df30800000000000000
+      internalID: 4600129511770090565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b97b639cd847af0800000000000000
+      internalID: -399538571583186172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag_short
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff543bafec54f20800000000000000
+      internalID: 3406356269320503256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a02eaa65c411f0800000000000000
+      internalID: -1075017349056126811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 32
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39229d4c19cdd6d80800000000000000
+      internalID: -8255700023269317997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_short
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640449fd7c6ab5750800000000000000
+      internalID: 6294808281560137798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
